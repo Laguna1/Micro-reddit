@@ -9,9 +9,11 @@ linters:
 files:
   ignore:
     - "bin/*"
+    - "test/*"
     - "db/*"
     - "config/*"
     - "Guardfile"
+    - "Gemfile"
     - "Rakefile"
     - "README.md"
     - "node_modules/**/*"
