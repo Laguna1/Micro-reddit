@@ -15,20 +15,23 @@ The project was created without adding a user interface.
 ## Getting start
 
 * In order to start with the project:
-* You need to have Rails environment installed. 
-* [Click here for instructions](https://guides.rubyonrails.org/getting_started.html)
+* You need to have Rails environment installed,
+ [Click here for instructions](https://guides.rubyonrails.org/getting_started.html)
 * Clone this repository 
 * Run the rails server
-    $ rails server
+*    $ rails server
 * Run rails db:migrate. It creates the database with the corresponding tables, columns and associations
-    $ rails db:migrate
+*    $ rails db:migrate
 * You can test it in the console by running
-    $ rails console 
+*    $ rails console 
 * Check User, Post or Comment to see the structure of each model
 
 
 
+
+
 ## Authors
+
 
 👤 **Morah Paul**
 
@@ -41,6 +44,7 @@ The project was created without adding a user interface.
 - GitHub:[@github/Laguna1](https://github.com/Laguna1)
 - Linkedin:[linkedin/OksanaPetrova](https://www.linkedin.com/in/oksana-petrova/)
 - Twitter:[@OksanaP48303303](https://twitter.com/OksanaP48303303)
+
 
 
 ## 🤝 Contributing
